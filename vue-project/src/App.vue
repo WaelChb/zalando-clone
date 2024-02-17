@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
  </div>
 </template>
-//test
+
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Roboto%3Awght%40300%3B400%3B700&display=swap');
 
